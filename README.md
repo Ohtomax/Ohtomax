@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ohtomax&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ohtomax&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area_color=39d353&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
