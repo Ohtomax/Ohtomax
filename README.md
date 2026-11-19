@@ -13,12 +13,6 @@
 
 ---
 
-<p align="center">
-  <img src="dist/github-contribution-grid.svg" alt="Contribution Graph" width="100%"/>
-</p>
-
----
-
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science** · *Magna cumlaude*
