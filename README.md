@@ -15,7 +15,7 @@
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science** · *Dean's Lister*
+**Bachelor of Science in Computer Science** · *Magna cumlaude*
 City College of Angeles — Angeles City, Pampanga · **2023 – Present**
 
 ---
