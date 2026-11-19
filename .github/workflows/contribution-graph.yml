@@ -1,0 +1,24 @@
+name: Generate Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight
+  workflow_dispatch:        # lets you trigger it manually too
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Ohtomax
+          outputs: |
+            dist/github-contribution-grid.svg?color_snake=39d353&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
